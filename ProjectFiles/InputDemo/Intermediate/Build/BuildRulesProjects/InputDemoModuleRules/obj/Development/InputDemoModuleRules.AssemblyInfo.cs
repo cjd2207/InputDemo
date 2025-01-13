@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InputDemoModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dbc2bb20ab7a5aa7527e63d7b86ac642b2291b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a32750396c5439a6721b1a69c59721cdb2a3154")]
 [assembly: System.Reflection.AssemblyProductAttribute("InputDemoModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InputDemoModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
