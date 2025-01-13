@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "InputDemo",
+			"Path": "..\\Source\\InputDemo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "InputDemoEditor",
+			"Path": "..\\Source\\InputDemoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

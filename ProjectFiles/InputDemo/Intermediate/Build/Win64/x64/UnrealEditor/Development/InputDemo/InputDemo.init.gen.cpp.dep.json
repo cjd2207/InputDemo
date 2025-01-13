@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\davis\\onedrive\\documents\\unreal projects\\gamedev\\inputdemo\\projectfiles\\inputdemo\\intermediate\\build\\win64\\unrealeditor\\inc\\inputdemo\\uht\\inputdemo.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\davis\\onedrive\\documents\\unreal projects\\gamedev\\inputdemo\\projectfiles\\inputdemo\\intermediate\\build\\win64\\x64\\inputdemoeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\davis\\onedrive\\documents\\unreal projects\\gamedev\\inputdemo\\projectfiles\\inputdemo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inputdemo\\definitions.inputdemo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
