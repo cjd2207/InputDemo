@@ -67,6 +67,9 @@ void AInputDemoCharacter::BeginPlay()
 			Subsystem->AddMappingContext(DefaultMappingContext, 0);
 		}
 	}
+
+	// C.Davis - Test
+	// C.Davis - Another Test
 }
 
 //////////////////////////////////////////////////////////////////////////
