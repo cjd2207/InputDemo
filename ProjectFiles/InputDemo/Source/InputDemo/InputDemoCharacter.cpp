@@ -70,8 +70,6 @@ void AInputDemoCharacter::BeginPlay()
 
 	// C.Davis - Test
 	// C.Davis - Another Test
-
-	// C.Davis - This is number [X] Test
 }
 
 //////////////////////////////////////////////////////////////////////////
