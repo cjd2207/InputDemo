@@ -77,6 +77,9 @@ void AInputDemoCharacter::BeginPlay()
 	// C.Davis - Which Test is this
 
 	// C.Davis - What Test is this
+
+	// C.Davis - Random Test
+
 }
 
 //////////////////////////////////////////////////////////////////////////
